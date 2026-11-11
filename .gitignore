@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Generated model files
+model/
+
+# Local secrets and logs
+.env
+.streamlit/secrets.toml
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
